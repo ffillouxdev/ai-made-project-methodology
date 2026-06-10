@@ -1,4 +1,4 @@
-# ai-made-project-methodology
+# ai-project-method
 
 This is my go-to starter repository for projects built with AI help.
 It contains a README.md (for your own project), that's where the AI understands
